@@ -41,9 +41,9 @@ function createTeam(){
     ])
     .then(response => {
         if(response.role === "Engineer")
-            enterEngineer(response.name, response.email, response.id);
+            enterEngineer(response.name,response.id, response.email);
         else if(response.role === "Intern")
-            enterIntern(response.name, response.email, response.id);
+            enterIntern(response.name, response.id,response.email);
     });
     
 }

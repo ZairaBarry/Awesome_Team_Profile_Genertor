@@ -1,11 +1,31 @@
 {
   "name": "yes",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project is a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.",
   "main": "Employee.test.js",
   "scripts": {
     "test": "jest"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "inquirer": "^8.2.4"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZairaBarry/Team_Profile_Genertor.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ZairaBarry/Team_Profile_Genertor/issues"
+  },
+  "homepage": "https://github.com/ZairaBarry/Team_Profile_Genertor#readme"
 }
