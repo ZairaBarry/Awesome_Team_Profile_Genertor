@@ -22,7 +22,8 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 
-![link to video]https://drive.google.com/file/d/1FIxj4f2bHZB3yM97Mtq7nCLE7eGijShE/view
+![link to video]https://drive.google.com/file/d/1W7w5hCv6o3F1Khkgy5LArKfHjxSSltFe/view
+
 ![screenshot of the app](/assets/Profile_screenshot.jpg)
 ## Tests
 
