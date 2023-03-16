@@ -1,29 +1,29 @@
 {
-  "name": "yes",
-  "version": "1.0.0",
-  "description": "This project is a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.",
-  "main": "Employee.test.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
     "inquirer": "^8.2.4"
   },
+  "name": "challenge-10",
+  "description": "This project is a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.",
+  "version": "1.0.0",
+  "main": "index.js",
   "directories": {
     "lib": "lib",
     "test": "tests"
   },
   "devDependencies": {
-    "jest": "^29.3.1"
+    "jest": "^29.4.1"
+  },
+  "scripts": {
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ZairaBarry/Team_Profile_Genertor.git"
   },
   "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/ZairaBarry/Team_Profile_Genertor/issues"
   },

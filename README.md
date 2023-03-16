@@ -21,10 +21,10 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
-
 ![link to video]https://drive.google.com/file/d/1W7w5hCv6o3F1Khkgy5LArKfHjxSSltFe/view
 
 ![screenshot of the app](/assets/Profile_screenshot.jpg)
+
 ## Tests
 
 In order to run the application run the command node index.js
